@@ -1,2 +1,2 @@
 # project1
-tis is a web project it is just for learning.
+This is a web project it is just for learning.
